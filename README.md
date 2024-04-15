@@ -1,13 +1,10 @@
-# Multi-Chain Transaction Signing Demo
+# 0xFeedback
 
-This repository contains a demo application that demonstrates the process of signing transactions on multiple blockchain networks using a single NEAR account. The application supports signing transactions on Ethereum (ETH), Binance Smart Chain (BNB), and Bitcoin (BTC) testnets.
+This repository contains a demo application with rewards for 0xfeedback end users.
 
 ## Features
 
-- Sign transactions on ETH, BNB, and BTC testnets using a NEAR account
-- Derive addresses for each supported chain based on a derivation path
-- Check account balances on each supported chain
-- Send transactions on each supported chain
+- Sign in with phone number and authenticate using OTP
 
 ## Prerequisites
 
